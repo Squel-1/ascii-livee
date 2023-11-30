@@ -4,20 +4,20 @@ var Forrest = DefaultFrameType(forrestFrames)
 
 var forrestFrames = []string{
 	`
-                      ,dlc:;.           
-                     .,;lkOx,           
-                     .,,cxkd'           
-                     ,c;cccl'           
-                   ..',:ol;.            
-                  .....,lko.            
-                '::'..,,;dxl.           
-             .';:;,'..,:;:dxl:,.....    
-             ,c,:c:,..,::;:odddoooddl.  
-              .;:oc,'':llclddd:',,cko.  
-               ';::,,:dkdl:,,,.   .,.   
-               ':',;:oOOdo:..           
-               :d,,:clddk00Odc,         
-               ,l,;:ccc:coxk00Od:,      
+                      ,dlc:;.                                               ,dlc:;.
+                     .,;lkOx,                                              .,;lkOx,
+                     .,,cxkd'                                              .,,cxkd
+                     ,c;cccl'                                              ,c;cccl'
+                   ..',:ol;.                                             ..',:ol;.
+                  .....,lko.                                            .....,lko.
+                '::'..,,;dxl.                                         '::'..,,;dxl.
+             .';:;,'..,:;:dxl:,.....                               .';:;,'..,:;:dxl:,.....
+             ,c,:c:,..,::;:odddoooddl.                             ,c,:c:,..,::;:odddoooddl.  
+              .;:oc,'':llclddd:',,cko.                              .;:oc,'':llclddd:',,cko. 
+               ';::,,:dkdl:,,,.   .,.                                ';::,,:dkdl:,,,.   .,.
+               ':',;:oOOdo:..                                        ':',;:oOOdo:..
+               :d,,:clddk00Odc,                                      :d,,:clddk00Odc,
+               ,l,;:ccc:coxk00Od:,                                   ,l,;:ccc:coxk00Od:,
               .;;;:cccc;.,::cldxxd,     
              .:;,::ccc,   ,:;;;cdd'     
         ..,,,cc;;::;,.       .,lxd'     
